@@ -1,4 +1,4 @@
-# Test case for https://github.com/gradle/gradle/issues/2128
+# Test case for https://github.com/gradle/gradle/issues/5468
 
 1. Run `./gradlew appengineRun`
 2. Wait for `INFO: Dev App Server is now running` line to appear
